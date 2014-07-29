@@ -1,0 +1,20 @@
+{
+    "title": "80's Baby",
+    "name": "80s-baby",
+    "description": "This is the Brackets 80's Baby theme.",
+    "version": "0.0.1",
+    "author": "larz (https://github.com/larz0)",
+    "homepage": "https://larz.io",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:larz0/brackets-80s-baby-theme.git"
+    },
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "theme.css",
+        "dark": true
+    }
+}
