@@ -54,13 +54,15 @@ span.cm-bracket		{ color: #3b6fff; }
 /* Matching */
 
 .CodeMirror-matchingbracket {
-	background-color: #00e2ff !important;
-	color: #000 !important;
+    background: transparent !important;
+	border-bottom: 3px solid #f95eff !important;
+    color: #fff !important;
 }
 
 .CodeMirror-matchingtag {
-	background-color: #00e2ff !important;
-    color: #000 !important;
+    background: transparent !important;
+	border-bottom: 3px solid #f95eff !important;
+    color: #fff !important;    
 }
 
 /* Active Line */
