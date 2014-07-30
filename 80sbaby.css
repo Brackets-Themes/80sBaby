@@ -22,6 +22,7 @@ span.cm-variable	{ color: #00e2ff; }
 
 span.cm-builtin     { color: #f95eff; }
 span.cm-number		{ color: #f95eff; }
+span.cm-string-2    { color: #f95eff; }
 
 span.cm-meta		{ color: #3b6fff; }
 span.cm-bracket		{ color: #3b6fff; }
