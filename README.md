@@ -1,7 +1,7 @@
-Brackets 80's Baby Theme
-========================
+80's Baby Theme for Brackets
+============================
 
-80's Baby theme is very bad for your eyes.
+This theme is very bad for your eyes :+1:
 
 ## HTML
 ![Tomorrow Night Theme in an HTML file](https://github.com/Brackets-Themes/80sBaby/blob/master/html.png)
