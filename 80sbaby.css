@@ -41,6 +41,11 @@ span.cm-bracket		{ color: #3b6fff; }
 	border-left: 2px solid #00e2ff !important;
 }
 
+.CodeMirror-overwrite .CodeMirror-cursor {
+    border-bottom: 1px solid #00e2ff !important;
+    border-left: none !important;
+}
+
 .CodeMirror-gutters {
 	background: #111112;
 	border-right: 0;
