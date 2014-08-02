@@ -1,28 +1,29 @@
 /* SWATCHES ---------------------------------------------------------------------- */
 
+span.cm-attribute	{ color: #16d3ea; }
+span.cm-builtin     { color: #16d3ea; }
+span.cm-def			{ color: #16d3ea; }
+span.cm-header      { color: #16d3ea; }
+span.cm-qualifier	{ color: #16d3ea; }
+span.cm-variable	{ color: #16d3ea; }
+
 span.cm-atom		{ color: #bbeb1b; }
 span.cm-link		{ color: #bbeb1b; }
 span.cm-string		{ color: #bbeb1b; }
 
-span.cm-property	{ color: #658fff; }
-span.cm-tag			{ color: #658fff; }
+span.cm-property	{ color: #7fb0ff; }
+span.cm-tag			{ color: #7fb0ff; }
+
+span.cm-variable-2	{ color: #be9cff; }
+span.cm-variable-3	{ color: #be9cff; }
 
 span.cm-comment		{ color: #667689; }
 span.cm-error		{ color: #ff0076; }
 span.cm-keyword		{ color: #e9e9e9; }
 span.cm-operator	{ color: #ffffff; }
 
-span.cm-variable-2	{ color: #9cabff; }
-
-span.cm-attribute	{ color: #00e2ff; }
-span.cm-def			{ color: #00e2ff; }
-span.cm-header      { color: #00e2ff; }
-span.cm-qualifier	{ color: #00e2ff; }
-span.cm-variable	{ color: #00e2ff; }
-
-span.cm-builtin     { color: #f95eff; }
-span.cm-number		{ color: #f95eff; }
-span.cm-string-2    { color: #f95eff; }
+span.cm-number		{ color: #fa67ff; }
+span.cm-string-2    { color: #fa67ff; }
 
 span.cm-meta		{ color: #3b6fff; }
 span.cm-bracket		{ color: #3b6fff; }
@@ -37,7 +38,7 @@ span.cm-bracket		{ color: #3b6fff; }
 }
 
 .CodeMirror-cursor {
-	border-left: 1px solid #00e2ff !important;
+	border-left: 2px solid #00e2ff !important;
 }
 
 .CodeMirror-gutters {
@@ -57,31 +58,30 @@ span.cm-bracket		{ color: #3b6fff; }
 
 .CodeMirror-matchingbracket {
     background: transparent !important;
-	border-bottom: 3px solid #f95eff !important;
+	border-bottom: 3px solid #e36be6 !important;
     color: #fff !important;
 }
 
 .CodeMirror-matchingtag {
     background: transparent !important;
-	border-bottom: 3px solid #f95eff !important;
-    color: #fff !important;    
+	border-bottom: 2px solid #e36be6 !important;
 }
 
 /* Active Line */
 
 .CodeMirror-focused .CodeMirror-activeline .CodeMirror-nonmatchingbracket {
-	color: #fff !important;
+	color: #ff0076 !important;
 }
 
 .CodeMirror-activeline-background {
-	background: #1d1d1d !important;
+	background: #1d1c1d !important;
 }
 
 .CodeMirror-focused .CodeMirror-activeline .CodeMirror-gutter-elt {
 	color: #fff;
-	background-color: #45484d !important;
+	background-color: #2e3133 !important;
 }
 
 .CodeMirror-focused .CodeMirror-activeline .inline-widget .CodeMirror-gutter-elt {
-	color: #000;
+	color: #fff;
 }
