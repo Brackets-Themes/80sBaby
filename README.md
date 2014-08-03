@@ -1,6 +1,8 @@
 80's Baby Theme for Brackets
 ============================
 
+Inspired by Silkie's 80's Baby. A Brackets original.
+
 This theme is very bad for your eyes :+1:
 
 ## HTML
