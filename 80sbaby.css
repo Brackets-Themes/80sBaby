@@ -10,7 +10,9 @@ span.cm-variable	{ color: #16d3ea; }
 span.cm-atom		{ color: #bbeb1b; }
 span.cm-link		{ color: #bbeb1b; }
 span.cm-string		{ color: #bbeb1b; }
+span.cm-string-2    { color: #bbeb1b; }
 
+span.cm-meta		{ color: #7fb0ff; }
 span.cm-property	{ color: #7fb0ff; }
 span.cm-tag			{ color: #7fb0ff; }
 
@@ -22,10 +24,8 @@ span.cm-error		{ color: #ff0076; }
 span.cm-keyword		{ color: #e9e9e9; }
 span.cm-operator	{ color: #ffffff; }
 
-span.cm-number		{ color: #fa67ff; }
-span.cm-string-2    { color: #fa67ff; }
+span.cm-number		{ color: #ff7dfe; }
 
-span.cm-meta		{ color: #3b6fff; }
 span.cm-bracket		{ color: #3b6fff; }
 
 
@@ -48,7 +48,7 @@ span.cm-bracket		{ color: #3b6fff; }
 
 .CodeMirror-gutters {
 	background: #111112;
-	border-right: 0;
+	border-right: 1px solid #262629;
 }
 
 .CodeMirror-linenumber {
@@ -84,9 +84,20 @@ span.cm-bracket		{ color: #3b6fff; }
 
 .CodeMirror-focused .CodeMirror-activeline .CodeMirror-gutter-elt {
 	color: #fff;
-	background-color: #2e3133 !important;
+	background-color: #111112 !important;
 }
 
 .CodeMirror-focused .CodeMirror-activeline .inline-widget .CodeMirror-gutter-elt {
 	color: #fff;
+}
+
+/* Non-editor styling */
+
+#image-holder,
+#not-editor {
+    background-color: #111112;
+}
+
+#image-holder {
+    color: #d9d9d9;
 }
