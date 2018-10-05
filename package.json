@@ -1,10 +1,10 @@
 {
-    "title": "80's Baby",
-    "name": "80s-baby",
-    "description": "80's Baby Theme for Brackets. Inspired by Silkie's 80's Baby. A Brackets original.",
+    "title": "80's Baby Rework",
+    "name": "80s-baby-rework",
+    "description": "80's Baby Theme for Brackets. Inspired by Silkie's 80's Baby. A Brackets original. (Rework)",
     "version": "1.0.2",
-    "author": "larz0 (https://github.com/larz0)",
-    "homepage": "https://github.com/Brackets-Themes/80sBaby",
+    "author": "NeoCode (https://github.com/xRealNeon)",
+    "homepage": "https://github.com/xRealNeon/80sBaby-Rework",
     "repository": {
         "type": "git",
         "url": "git@github.com:Brackets-Themes/80sBaby.git"
