@@ -1,4 +1,4 @@
-80's Baby Theme for Brackets
+80's Baby Theme for Brackets (Rework)
 ============================
 
 Inspired by Silkie's 80's Baby. A Brackets original.
