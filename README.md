@@ -2,6 +2,7 @@
 ============================
 
 ## Install
+[Install Instructions](https://xrealneon.github.io/80sBaby-Rework/install "Install Instructions")
 ```
 https://github.com/xRealNeon/80sBaby-Rework/archive/master.zip
 ```
