@@ -6,10 +6,7 @@ Inspired by Silkie's 80's Baby. A Brackets original.
 This theme is better for your eyes :+1:
 
 ## Install
-[Install Instructions](https://xrealneon.github.io/80sBaby-Rework/install "Install Instructions")
-```
-https://github.com/xRealNeon/80sBaby-Rework/archive/master.zip
-```
+search in brackest addon manager `80's Baby Rework`
 
 ## HTML
 ![HTML Screenshot](https://github.com/xRealNeon/80sBaby-Rework/blob/master/screenshots/html.png)
